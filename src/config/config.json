@@ -1,17 +1,17 @@
 {
   "site": {
-    "title": "Astroplate",
+    "title": "PLUG-IN",
     "base_url": "https://astroplate.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/logo.png",
-    "logo_darkmode": "/images/logo-darkmode.png",
-    "logo_width": "150",
+    "favicon": "/images/logo.svg",
+    "logo": "/images/logo.svg",
+    "logo_darkmode": "/images/logo-darkmode.svg",
+    "logo_width": "90",
     "logo_height": "30",
-    "logo_text": "Astroplate"
+    "logo_text": "PLUG-IN",
+    "logo_name": "PLUG-IN"
   },
-
   "settings": {
     "search": true,
     "sticky_header": true,
@@ -21,24 +21,20 @@
     "summary_length": 200,
     "blog_folder": "blog"
   },
-
   "params": {
     "contact_form_action": "#",
     "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
   },
-
   "navigation_button": {
     "enable": true,
     "label": "Get Started",
     "link": "https://github.com/zeon-studio/astroplate"
   },
-
   "disqus": {
     "enable": true,
     "shortname": "themefisher-template",
     "settings": {}
   },
-
   "metadata": {
     "meta_author": "zeon.studio",
     "meta_image": "/images/og-image.png",
