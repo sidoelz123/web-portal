@@ -28,7 +28,7 @@ const { theme_switcher }: { theme_switcher: boolean } = config.settings;
 <a href="/" class="navbar-brand inline-block">
   {
     src || srcDarkmode || logo || logo_darkmode ? (
-      <div class="flex border-2 items-center">
+      <div class="flex items-center">
         <Image
           src={src ? src : logo}
           class={`inline-block ${theme_switcher && "dark:hidden"}`}
