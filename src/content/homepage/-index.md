@@ -1,19 +1,19 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "WAKTUNYA MENGUMPULKAN CAKRA"
+  content: "Dapatkan Chakra Super untuk memperkuat skill programmingmu."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "Mari kumpulkan Cakra!!"
     link: "https://github.com/zeon-studio/astroplate"
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "Kenapa Kamu harus Belajar Coding?"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "Coding adalah Cakra super yang bisa membuat kamu mempunyai kekuatan membuat aplikasi yang kamu inginkan, baik itu aplikasi mobile, desktop atau website. sehingga kamu juga bisa Bekerja di startup atau perusahaan besar, menjadi freelancer, atau membangun usaha sendiri. Semuanya bisa dengan CAKRA SUPER INI"
     bulletpoints:
       - "10+ Pre-build pages"
       - "95+ Google Pagespeed Score"
